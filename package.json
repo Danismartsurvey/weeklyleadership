@@ -1,3 +1,4 @@
+
 {
   "name": "smartsurvey-claude-tips",
   "private": true,
@@ -10,9 +11,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
+    "react-dom": "^18.2.0",
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^5.2.0"
   }
